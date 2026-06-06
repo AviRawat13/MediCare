@@ -1,0 +1,6 @@
+{
+  "name": "MediCare",
+  "description": "Professional digital prescription and electronic health records dashboard with smart consultation workflows, real-time alerts, and interactive schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
